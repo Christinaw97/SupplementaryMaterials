@@ -1,0 +1,231 @@
+dependent_variables:
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: -2 $\sigma$
+  values:
+  - value: 9619.0
+  - value: 567.97
+  - value: 287.28
+  - value: 151.08
+  - value: 88.154
+  - value: 29.181
+  - value: 2.089
+  - value: 0.21829
+  - value: 0.052366
+  - value: 0.013185
+  - value: 0.0081735
+  - value: 0.0063259
+  - value: 0.0051021
+  - value: 0.0033961
+  - value: 0.001997
+  - value: 0.0016158
+  - value: 0.001918
+  - value: 0.0022694
+  - value: 0.0040881
+  - value: 0.0057259
+  - value: 0.015785
+  - value: 0.03019
+  - value: 0.045522
+  - value: 0.30244
+  - value: 0.4532
+  - value: 0.73779
+  - value: 1.4457
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: -1 $\sigma$
+  values:
+  - value: 9619.0
+  - value: 832.9
+  - value: 382.98
+  - value: 204.21
+  - value: 118.46
+  - value: 43.869
+  - value: 2.5122
+  - value: 0.24454
+  - value: 0.057554
+  - value: 0.014098
+  - value: 0.0096645
+  - value: 0.0070356
+  - value: 0.0054333
+  - value: 0.0038387
+  - value: 0.002031
+  - value: 0.0017718
+  - value: 0.0020125
+  - value: 0.0024496
+  - value: 0.0044494
+  - value: 0.0058902
+  - value: 0.017733
+  - value: 0.033508
+  - value: 0.051026
+  - value: 0.33377
+  - value: 0.48572
+  - value: 0.82958
+  - value: 1.645
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: Median expected
+  values:
+  - value: 10352.0
+  - value: 1782.9
+  - value: 695.67
+  - value: 348.97
+  - value: 216.07
+  - value: 79.749
+  - value: 3.0578
+  - value: 0.30519
+  - value: 0.068988
+  - value: 0.017495
+  - value: 0.011506
+  - value: 0.0085349
+  - value: 0.0067246
+  - value: 0.0048222
+  - value: 0.0026182
+  - value: 0.0020948
+  - value: 0.0024564
+  - value: 0.0030017
+  - value: 0.0054295
+  - value: 0.0073566
+  - value: 0.021378
+  - value: 0.041411
+  - value: 0.061119
+  - value: 0.4184
+  - value: 0.62161
+  - value: 1.0199
+  - value: 2.0457
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: +1 $\sigma$
+  values:
+  - value: 34638.0
+  - value: 5747.9
+  - value: 1922.2
+  - value: 781.45
+  - value: 475.96
+  - value: 174.33
+  - value: 4.2385
+  - value: 0.4273
+  - value: 0.090816
+  - value: 0.024798
+  - value: 0.016537
+  - value: 0.012426
+  - value: 0.0097598
+  - value: 0.006987
+  - value: 0.0037087
+  - value: 0.0031668
+  - value: 0.0036665
+  - value: 0.0044946
+  - value: 0.0075996
+  - value: 0.010355
+  - value: 0.030748
+  - value: 0.059654
+  - value: 0.09204
+  - value: 0.60316
+  - value: 0.89144
+  - value: 1.4251
+  - value: 2.8474
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: +2 $\sigma$
+  values:
+  - value: 9441100.0
+  - value: 68683.0
+  - value: 7938.0
+  - value: 2622.9
+  - value: 1643.6
+  - value: 525.02
+  - value: 6.1319
+  - value: 0.60703
+  - value: 0.14401
+  - value: 0.036645
+  - value: 0.024155
+  - value: 0.017759
+  - value: 0.014171
+  - value: 0.0099262
+  - value: 0.0053961
+  - value: 0.0047732
+  - value: 0.0051947
+  - value: 0.0062023
+  - value: 0.011493
+  - value: 0.016179
+  - value: 0.044493
+  - value: 0.089672
+  - value: 0.13279
+  - value: 0.87419
+  - value: 1.2807
+  - value: 2.155
+  - value: 4.2144
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: Observed
+  values:
+  - value: 8641.2
+  - value: 1140.0
+  - value: 472.82
+  - value: 249.22
+  - value: 158.22
+  - value: 54.142
+  - value: 3.9849
+  - value: 0.40184
+  - value: 0.089252
+  - value: 0.022245
+  - value: 0.01527
+  - value: 0.01118
+  - value: 0.0087817
+  - value: 0.006442
+  - value: 0.0033798
+  - value: 0.0029068
+  - value: 0.0034088
+  - value: 0.0040722
+  - value: 0.0071967
+  - value: 0.0099688
+  - value: 0.028847
+  - value: 0.055279
+  - value: 0.083598
+  - value: 0.54771
+  - value: 0.81771
+  - value: 1.3586
+  - value: 2.6866
+independent_variables:
+- header:
+    name: c$\tau$
+    units: m
+  values:
+  - value: 0.02
+  - value: 0.03
+  - value: 0.04
+  - value: 0.05
+  - value: 0.06
+  - value: 0.1
+  - value: 0.125
+  - value: 0.2
+  - value: 0.3
+  - value: 0.5
+  - value: 0.6
+  - value: 0.7
+  - value: 0.8
+  - value: 1.0
+  - value: 2.0
+  - value: 3.0
+  - value: 7.0
+  - value: 10.0
+  - value: 20.0
+  - value: 30.0
+  - value: 100.0
+  - value: 200.0
+  - value: 300.0
+  - value: 2000.0
+  - value: 3000.0
+  - value: 5000.0
+  - value: 10000.0

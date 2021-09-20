@@ -1,0 +1,238 @@
+---
+additional_resources:
+- description: Code for cut-based ID
+  location: cut_based_id.py
+- description: Signal generator cards
+  location: generator_cards.tar
+- description: Instructions for Reinterpretation
+  location: instructions.pdf
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+data_file: figure_3-a_(7_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 7 GeV mass and $ S \rightarrow d\bar{d}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-a
+name: Figure 3-a (7 GeV)
+---
+data_file: figure_3-a_(15_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 15 GeV mass and $ S \rightarrow d\bar{d}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-a
+name: Figure 3-a (15 GeV)
+---
+data_file: figure_3-a_(40_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 40 GeV mass and $ S \rightarrow d\bar{d}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-a
+name: Figure 3-a (40 GeV)
+---
+data_file: figure_3-a_(55_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 55 GeV mass and $ S \rightarrow d\bar{d}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-a
+name: Figure 3-a (55 GeV)
+---
+data_file: figure_3-b_(7_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 7 GeV mass and $ S \rightarrow \tau^{+} \tau^{-}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-b
+name: Figure 3-b (7 GeV)
+---
+data_file: figure_3-b_(15_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 15 GeV mass and $ S \rightarrow \tau^{+} \tau^{-}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-b
+name: Figure 3-b (15 GeV)
+---
+data_file: figure_3-b_(40_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 40 GeV mass and $ S \rightarrow \tau^{+} \tau^{-}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-b
+name: Figure 3-b (40 GeV)
+---
+data_file: figure_3-b_(55_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 55 GeV mass and $ S \rightarrow \tau^{+} \tau^{-}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Figure 3-b
+name: Figure 3-b (55 GeV)
+---
+data_file: additional_figure_1_(15_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 15 GeV mass and $ S \rightarrow b\bar{b}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Additional Figure 1
+name: Additional Figure 1 (15 GeV)
+---
+data_file: additional_figure_1_(40_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 40 GeV mass and $ S \rightarrow b\bar{b}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Additional Figure 1
+name: Additional Figure 1 (40 GeV)
+---
+data_file: additional_figure_1_(55_gev).yaml
+description: The 95% CL observed and expected limits on the branching fraction B(H
+  $\rightarrow$ SS) for 55 GeV mass and $ S \rightarrow b\bar{b}$ decay mode.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - CLS
+location: Additional Figure 1
+name: Additional Figure 1 (55 GeV)
+---
+data_file: additional_figure_7a.yaml
+description: The cluster efficiency in bins of hadronic and EM energy in region A.
+  Region A is defined as 391 cm $< r <$ 695.5 cm and 400 cm $< |z| <$ 671 cm. The
+  cluster efficiency is estimated with LLPs decaying to $\tau^{+} \tau^{-}$. The sample
+  contains equal fractions of events with LLP mass of 7, 15, 40, and 55 GeV and LLP
+  lifetime of 0.1, 1, 10, and 100m. The first hadronic energy bins correspond to LLPs
+  that decayed leptonically with 0 hadronic energy. The cluster efficiency includes
+  all cluster-level selections described in the paper, except for the jet veto, time
+  cut, and $\Delta\phi$ cut. The full simulation signal yield prediction for samples
+  with various LLP mass between 7 - 55 GeV, lifetime between 0.1 - 100 m, and decay
+  mode to $d\bar{d}$ and $\tau^{+} \tau^{-}$ can be reproduced using this parameterization
+  to within 35% and 20% for region A and B, respectively.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - EFF
+location: Additional Figure 7a
+name: Additional Figure 7a
+---
+data_file: additional_figure_7b.yaml
+description: The cluster efficiency in bins of hadronic and EM energy in region B.
+  Region B is defined as 671 cm $< |z| <$ 1100 cm, $r <$ 695.5 cm, and $|\eta| <$
+  2. The cluster efficiency is estimated with LLPs decaying to $\tau^{+} \tau^{-}$.
+  The sample contains equal fractions of events with LLP mass of 7, 15, 40, and 55
+  GeV and LLP lifetime of 0.1, 1, 10, and 100m. The first hadronic energy bins correspond
+  to LLPs that decayed leptonically with 0 hadronic energy. The cluster efficiency
+  includes all cluster-level selections described in the paper, except for the jet
+  veto, time cut, and $\Delta\phi$ cut. The full simulation signal yield prediction
+  for samples with various LLP mass between 7 - 55 GeV, lifetime between 0.1 - 100
+  m, and decay mode to $d\bar{d}$ and $\tau^{+} \tau^{-}$ can be reproduced using
+  this parameterization to within 35% and 20% for region A and B, respectively.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - EFF
+location: Additional Figure 7b
+name: Additional Figure 7b
+---
+data_file: additional_figure_8.yaml
+description: The efficiency of $N_{station} > 1$ requirement in bins of hadronic energy
+  in region B. Region B is defined as 671 cm $< |z| <$ 1100 cm, $r <$ 695.5 cm, and
+  $|\eta| <$ 2. The cluster efficiency is estimated with LLPs decaying to $\tau^{+}
+  \tau^{-}$. The sample contains equal fractions of events with LLP mass of 7, 15,
+  40, and 55 GeV and LLP lifetime of 0.1, 1, 10, and 100m. The first hadronic energy
+  bin corresponds to LLPs that decayed leptonically with 0 hadronic energy. The efficiency
+  is calculated with respect to clusters that pass all cluster-level cuts described
+  in the paper, except for the jet veto, time cut, and $\Delta\phi$ cut. The full
+  simulation signal yield prediction for samples with various LLP mass between 7 -
+  55 GeV, lifetime between 0.1 - 100 m, and decay mode to $d\bar{d}$ and $\tau^{+}
+  \tau^{-}$ can be reproduced using this parameterization to within 10%.
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - EFF
+location: Additional Figure 8
+name: Additional Figure 8
+---
+data_file: additional_figure_9.yaml
+description: 'The geometric signal acceptance as a function of $c\tau$. The acceptance
+  is shown for four different LLP mass hypotheses: 7, 15, 40, and 55 GeV. The acceptance
+  is defined by requiring at least 1 LLP to decay in the region defined as  400 cm
+  $< |z| <$ 1100 cm, $r < $ 695.5 cm, and $|\eta| <$ 2.4.'
+keywords:
+- name: cmenergies
+  values:
+  - '13000.0'
+- name: observables
+  values:
+  - ACC
+location: Additional Figure 9
+name: Additional Figure 9

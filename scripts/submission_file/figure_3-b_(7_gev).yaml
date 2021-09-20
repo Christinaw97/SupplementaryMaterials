@@ -1,0 +1,217 @@
+dependent_variables:
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: -2 $\sigma$
+  values:
+  - value: 0.86835
+  - value: 0.040991
+  - value: 0.01259
+  - value: 0.0063946
+  - value: 0.0044537
+  - value: 0.0021434
+  - value: 0.0017696
+  - value: 0.0019949
+  - value: 0.0020513
+  - value: 0.0023238
+  - value: 0.0029633
+  - value: 0.0086426
+  - value: 0.011458
+  - value: 0.013861
+  - value: 0.016624
+  - value: 0.020832
+  - value: 0.046506
+  - value: 0.071322
+  - value: 0.26053
+  - value: 0.52351
+  - value: 0.82552
+  - value: 5.5518
+  - value: 8.42
+  - value: 13.997
+  - value: 27.257
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: -1 $\sigma$
+  values:
+  - value: 0.9343
+  - value: 0.04158
+  - value: 0.012891
+  - value: 0.0066521
+  - value: 0.0043895
+  - value: 0.002263
+  - value: 0.0018501
+  - value: 0.0020573
+  - value: 0.0022982
+  - value: 0.0025158
+  - value: 0.0030212
+  - value: 0.0091848
+  - value: 0.011776
+  - value: 0.014652
+  - value: 0.017116
+  - value: 0.021877
+  - value: 0.049742
+  - value: 0.073451
+  - value: 0.27275
+  - value: 0.58441
+  - value: 0.84451
+  - value: 5.9401
+  - value: 8.9253
+  - value: 14.892
+  - value: 31.604
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: Median expected
+  values:
+  - value: 1.1428
+  - value: 0.05249
+  - value: 0.015698
+  - value: 0.0083595
+  - value: 0.0054336
+  - value: 0.0028459
+  - value: 0.0022718
+  - value: 0.0026223
+  - value: 0.0028613
+  - value: 0.0030588
+  - value: 0.0037352
+  - value: 0.011055
+  - value: 0.014406
+  - value: 0.018295
+  - value: 0.021844
+  - value: 0.027289
+  - value: 0.062477
+  - value: 0.093906
+  - value: 0.36679
+  - value: 0.7501
+  - value: 1.1455
+  - value: 7.761
+  - value: 11.675
+  - value: 19.869
+  - value: 38.685
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: +1 $\sigma$
+  values:
+  - value: 1.6403
+  - value: 0.074448
+  - value: 0.024043
+  - value: 0.012399
+  - value: 0.0083114
+  - value: 0.0039175
+  - value: 0.0033051
+  - value: 0.0037958
+  - value: 0.0041119
+  - value: 0.0045081
+  - value: 0.0055521
+  - value: 0.015932
+  - value: 0.021429
+  - value: 0.026511
+  - value: 0.030159
+  - value: 0.03984
+  - value: 0.091784
+  - value: 0.13165
+  - value: 0.52822
+  - value: 1.058
+  - value: 1.5395
+  - value: 11.322
+  - value: 16.64
+  - value: 26.3
+  - value: 57.022
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: +2 $\sigma$
+  values:
+  - value: 2.3893
+  - value: 0.11114
+  - value: 0.033225
+  - value: 0.017182
+  - value: 0.01159
+  - value: 0.0056012
+  - value: 0.0047074
+  - value: 0.0054831
+  - value: 0.0059957
+  - value: 0.006529
+  - value: 0.0082953
+  - value: 0.023807
+  - value: 0.030616
+  - value: 0.036748
+  - value: 0.044139
+  - value: 0.056825
+  - value: 0.12463
+  - value: 0.17962
+  - value: 0.76474
+  - value: 1.5129
+  - value: 2.2293
+  - value: 15.519
+  - value: 22.895
+  - value: 38.242
+  - value: 76.958
+- header:
+    name: 95% CL upper limit on B(H $\rightarrow$ SS)
+  qualifiers:
+  - name: Quantile
+    value: Observed
+  values:
+  - value: 1.5501
+  - value: 0.070175
+  - value: 0.021
+  - value: 0.011336
+  - value: 0.0073707
+  - value: 0.0036114
+  - value: 0.0031155
+  - value: 0.0036165
+  - value: 0.0039007
+  - value: 0.0041676
+  - value: 0.0051255
+  - value: 0.015783
+  - value: 0.020684
+  - value: 0.024865
+  - value: 0.029085
+  - value: 0.03748
+  - value: 0.085692
+  - value: 0.1276
+  - value: 0.48982
+  - value: 0.98584
+  - value: 1.4753
+  - value: 9.8629
+  - value: 14.706
+  - value: 24.903
+  - value: 49.566
+independent_variables:
+- header:
+    name: c$\tau$
+    units: m
+  values:
+  - value: 0.01
+  - value: 0.02
+  - value: 0.03
+  - value: 0.04
+  - value: 0.05
+  - value: 0.1
+  - value: 0.3
+  - value: 0.5
+  - value: 0.6
+  - value: 0.7
+  - value: 1.0
+  - value: 3.0
+  - value: 4.0
+  - value: 5.0
+  - value: 6.0
+  - value: 8.0
+  - value: 20.0
+  - value: 30.0
+  - value: 100.0
+  - value: 200.0
+  - value: 300.0
+  - value: 2000.0
+  - value: 3000.0
+  - value: 5000.0
+  - value: 10000.0

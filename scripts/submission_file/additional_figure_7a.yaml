@@ -1,0 +1,203 @@
+dependent_variables:
+- header:
+    name: Efficiency
+  values:
+  - errors:
+    - asymerror:
+        minus: 0.00027813
+        plus: -0.00026219
+      label: MC statistical uncertainty
+    value: 0.0044229
+  - errors:
+    - asymerror:
+        minus: 0.001342
+        plus: -0.0012705
+      label: MC statistical uncertainty
+    value: 0.022597
+  - errors:
+    - asymerror:
+        minus: 0.003032
+        plus: -0.0027784
+      label: MC statistical uncertainty
+    value: 0.030654
+  - errors:
+    - asymerror:
+        minus: 0.012951
+        plus: -0.010604
+      label: MC statistical uncertainty
+    value: 0.04984
+  - errors:
+    - asymerror:
+        minus: 0.00022695
+        plus: -0.00022276
+      label: MC statistical uncertainty
+    value: 0.011814
+  - errors:
+    - asymerror:
+        minus: 0.00057511
+        plus: -0.00056313
+      label: MC statistical uncertainty
+    value: 0.025936
+  - errors:
+    - asymerror:
+        minus: 0.0014122
+        plus: -0.0013687
+      label: MC statistical uncertainty
+    value: 0.041553
+  - errors:
+    - asymerror:
+        minus: 0.0061652
+        plus: -0.0055132
+      label: MC statistical uncertainty
+    value: 0.046509
+  - errors:
+    - asymerror:
+        minus: 0.00050143
+        plus: -0.00049389
+      label: MC statistical uncertainty
+    value: 0.031444
+  - errors:
+    - asymerror:
+        minus: 0.0013712
+        plus: -0.0013337
+      label: MC statistical uncertainty
+    value: 0.045506
+  - errors:
+    - asymerror:
+        minus: 0.0032986
+        plus: -0.0031361
+      label: MC statistical uncertainty
+    value: 0.057704
+  - errors:
+    - asymerror:
+        minus: 0.0098432
+        plus: -0.0086366
+      label: MC statistical uncertainty
+    value: 0.060944
+  - errors:
+    - asymerror:
+        minus: 0.001117
+        plus: -0.001097
+      label: MC statistical uncertainty
+    value: 0.056666
+  - errors:
+    - asymerror:
+        minus: 0.0038798
+        plus: -0.003713
+      label: MC statistical uncertainty
+    value: 0.076416
+  - errors:
+    - asymerror:
+        minus: 0.0070832
+        plus: -0.0065757
+      label: MC statistical uncertainty
+    value: 0.079477
+  - errors:
+    - asymerror:
+        minus: 0.018295
+        plus: -0.015456
+      label: MC statistical uncertainty
+    value: 0.081777
+  - errors:
+    - asymerror:
+        minus: 0.0024966
+        plus: -0.0024335
+      label: MC statistical uncertainty
+    value: 0.084916
+  - errors:
+    - asymerror:
+        minus: 0.0041873
+        plus: -0.0040433
+      label: MC statistical uncertainty
+    value: 0.10074
+  - errors:
+    - asymerror:
+        minus: 0.0081365
+        plus: -0.0076674
+      label: MC statistical uncertainty
+    value: 0.11034
+independent_variables:
+- header:
+    name: Hadronic Energy
+    units: GeV
+  values:
+  - high: 0.0
+    low: 0.0
+  - high: 0.0
+    low: 0.0
+  - high: 0.0
+    low: 0.0
+  - high: 0.0
+    low: 0.0
+  - high: 25.0
+    low: 0.0
+  - high: 25.0
+    low: 0.0
+  - high: 25.0
+    low: 0.0
+  - high: 25.0
+    low: 0.0
+  - high: 50.0
+    low: 25.0
+  - high: 50.0
+    low: 25.0
+  - high: 50.0
+    low: 25.0
+  - high: 50.0
+    low: 25.0
+  - high: 75.0
+    low: 50.0
+  - high: 75.0
+    low: 50.0
+  - high: 75.0
+    low: 50.0
+  - high: 75.0
+    low: 50.0
+  - high: 100.0
+    low: 75.0
+  - high: 150.0
+    low: 100.0
+  - high: 250.0
+    low: 150.0
+- header:
+    name: EM Energy
+    units: GeV
+  values:
+  - high: 25.0
+    low: 0.0
+  - high: 50.0
+    low: 25.0
+  - high: 100.0
+    low: 50.0
+  - high: 200.0
+    low: 100.0
+  - high: 25.0
+    low: 0.0
+  - high: 50.0
+    low: 25.0
+  - high: 100.0
+    low: 50.0
+  - high: 200.0
+    low: 100.0
+  - high: 25.0
+    low: 0.0
+  - high: 50.0
+    low: 25.0
+  - high: 100.0
+    low: 50.0
+  - high: 200.0
+    low: 100.0
+  - high: 25.0
+    low: 0.0
+  - high: 50.0
+    low: 25.0
+  - high: 100.0
+    low: 50.0
+  - high: 200.0
+    low: 100.0
+  - high: 200.0
+    low: 0.0
+  - high: 200.0
+    low: 0.0
+  - high: 200.0
+    low: 0.0
